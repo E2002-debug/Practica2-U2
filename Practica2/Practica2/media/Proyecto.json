@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "nombre": "ProyectoAmaluza",
+        "fechaInicio": "2021-05-01",
+        "fechaFin": "2021-05-30",
+        "estado": "Activo",
+        "id_inversionista": 2,
+        "id_propuesta": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Proyecto1",
+        "fechaInicio": "2022-05-01",
+        "fechaFin": "2022-05-30",
+        "estado": "Activo",
+        "id_inversionista": 1,
+        "id_propuesta": 2
+    },
+    {
+        "id": 3,
+        "nombre": "Proyecto Cochapata",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 4,
+        "id_propuesta": 2
+    },
+    {
+        "id": 4,
+        "nombre": "BuenVivir fase 2",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 5,
+        "id_propuesta": 3
+    },
+    {
+        "id": 5,
+        "nombre": "Amaluza Energetica",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 6,
+        "id_propuesta": 4
+    },
+    {
+        "id": 6,
+        "nombre": "Chaguarpamba Energetica",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 7,
+        "id_propuesta": 5
+    },
+    {
+        "id": 7,
+        "nombre": "Lomas Altas",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 8,
+        "id_propuesta": 6
+    },
+    {
+        "id": 8,
+        "nombre": "Base Nuclear Cajas",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 9,
+        "id_propuesta": 7
+    },
+    {
+        "id": 9,
+        "nombre": "Eolicos Yahuarpamba",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 10,
+        "id_propuesta": 8
+    },
+    {
+        "id": 10,
+        "nombre": "Solar Cajas",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 1,
+        "id_propuesta": 9
+    },
+    {
+        "id": 11,
+        "nombre": "Eolicos Cajas",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 2,
+        "id_propuesta": 10
+    },
+    {
+        "id": 12,
+        "nombre": "Solar Yahuarpamba",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 3,
+        "id_propuesta": 11
+    },
+    {
+        "id": 13,
+        "nombre": "Hidroelectrica Cochasqui",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 4,
+        "id_propuesta": 12
+    },
+    {
+        "id": 14,
+        "nombre": "Termoelectrica Lomas",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 5,
+        "id_propuesta": 13
+    },
+    {
+        "id": 15,
+        "nombre": "Hidroelectrica Bienaventurados",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 6,
+        "id_propuesta": 14
+    },
+    {
+        "id": 16,
+        "nombre": "Base Nuclear BuenaVista",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 7,
+        "id_propuesta": 15
+    },
+    {
+        "id": 17,
+        "nombre": "Hidroelectrica Lejanias",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 8,
+        "id_propuesta": 16
+    },
+    {
+        "id": 18,
+        "nombre": "Energia para todos",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 9,
+        "id_propuesta": 17
+    },
+    {
+        "id": 19,
+        "nombre": "Energia para el futuro",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 10,
+        "id_propuesta": 18
+    },
+    {
+        "id": 20,
+        "nombre": "Energia para el presente",
+        "fechaInicio": "2024-12-01",
+        "fechaFin": "2025-05-30",
+        "estado": "Activo",
+        "id_inversionista": 1,
+        "id_propuesta": 19
+    }
+]

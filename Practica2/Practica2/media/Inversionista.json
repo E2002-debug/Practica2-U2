@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "nombre": "Tamara",
+        "apellido": "Mendez",
+        "dni": "1111111111",
+        "montoI": 70000.0
+    },
+    {
+        "id": 2,
+        "nombre": "Laura",
+        "apellido": "Rodriguez",
+        "dni": "2222222222",
+        "montoI": 70000.0
+    },
+    {
+        "id": 3,
+        "nombre": "Rosaura",
+        "apellido": "Lopez",
+        "dni": "3333333333",
+        "montoI": 70000.0
+    },
+    {
+        "id": 4,
+        "nombre": "Alex",
+        "apellido": "Moreno",
+        "dni": "4444444444",
+        "montoI": 80000.0
+    },
+    {
+        "id": 5,
+        "nombre": "Miguel",
+        "apellido": "Luna",
+        "dni": "7777777777",
+        "montoI": 100000.0
+    },
+    {
+        "id": 6,
+        "nombre": "Erika",
+        "apellido": "Curimilma",
+        "dni": "6666666666",
+        "montoI": 80000.0
+    },
+    {
+        "id": 7,
+        "nombre": "Isabel ",
+        "apellido": "Morocho",
+        "dni": "8888888888",
+        "montoI": 90000.0
+    },
+    {
+         "id": 8,
+        "nombre": "Luis",
+        "apellido": "Perez",
+        "dni": "9999999999",
+        "montoI": 90000.0
+    },
+    {
+        "id": 9,
+        "nombre": "Carlos",
+        "apellido": "Gonzalez",
+        "dni": "1010101010",
+        "montoI": 100000.0
+    },
+    {
+        "id": 10,
+        "nombre": "Jorge",
+        "apellido": "Garcia",
+        "dni": "1212121212",
+        "montoI": 100000.0
+    },
+    {
+        "id": 11,
+        "nombre": "Maria",
+        "apellido": "Gomez",
+        "dni": "1313131313",
+        "montoI": 100000.0
+    },
+    {
+        "id": 12,
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "dni": "1414141414",
+        "montoI": 100000.0
+    },
+    {
+        "id": 13,
+        "nombre": "Pedro",
+        "apellido": "Garcia",
+        "dni": "1515151515",
+        "montoI": 100000.0
+    },
+    {
+        "id": 14,
+        "nombre": "Luis",
+        "apellido": "Gomez",
+        "dni": "1616161616",
+        "montoI": 100000.0
+    },
+    {
+        "id": 15,
+        "nombre": "Carlos",
+        "apellido": "Garcia",
+        "dni": "1717171717",
+        "montoI": 100000.0
+    },
+    {
+        "id": 16,
+        "nombre": "Jorge",
+        "apellido": "Perez",
+        "dni": "1818181818",
+        "montoI": 100000.0
+    },
+    {
+        "id": 17,
+        "nombre": "Maria",
+        "apellido": "Garcia",
+        "dni": "1919191919",
+        "montoI": 100000.0
+    },
+    {
+        "id": 18,
+        "nombre": "Juan",
+        "apellido": "Gomez",
+        "dni": "2020202020",
+        "montoI": 100000.0
+    },
+    {
+        "id": 19,
+        "nombre": "Pedro",
+        "apellido": "Perez",
+        "dni": "2121212121",
+        "montoI": 100000.0
+    },
+    {
+        "id": 20,
+        "nombre": "Luis",
+        "apellido": "Garcia",
+        "dni": "2222222222",
+        "montoI": 100000.0
+    }
+
+]
